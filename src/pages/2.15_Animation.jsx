@@ -84,6 +84,20 @@ import React from 'react';
 //                     transform:translateX(100px):
 //                     transform:translateY(20px):
 
+                    // const btn = document.querySelector('.btn')
+                    // btn.addEventListener('click', function() {
+                    //     const ball = document.querySelector('.ball')
+                    //     ball.style.transform = 'translate(120px, 0px)' 
+                    //     ball.style.transition = '1s'
+                    // }) 
+
+                    // 自动刷新 
+                    // window.onload = function () {
+                    //     const ball = document.querySelector('.ball')
+                    //     ball.style.transform = 'translate(120px, 0px)'
+                    //     ball.style.transition = '1s'
+                    // }
+
 //     三、缩放scale
 //             1、scale(<number>[, <number>])：提供执行[sx,sy]缩放矢量的两个参数指定一个2D scale（2D缩放）。
 //             如果第二个参数未提供，则取与第一个参数一样的值。
