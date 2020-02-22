@@ -4,9 +4,6 @@ import axios from 'axios'
 import 'antd/dist/antd.less';
 import './index.less';
 
-
-
-
 class App extends React.PureComponent {
     render() {
         return (
